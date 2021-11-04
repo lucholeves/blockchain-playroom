@@ -1,4 +1,6 @@
-# My python project template
+# My Blockchain with Python
+
+I'm using this [article](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b) for guide.
 
 ## Dependency Management:
 
